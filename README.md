@@ -6,7 +6,7 @@
 
 The **Flowcode API** is a **RESTful API** that lets you programmatically leverage the Flowcode platform:
 
-* 🚀 Create and manage (dynaymic QR) Flowcodes at scale
+* 🚀 Create and manage (dynamic QR) Flowcodes at scale
 * 📈 Extract real-time analytics data from your Flowcodes and Flowpages
 * ♾️ Seamlessly integrate the API into your application
 
